@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/jesuss-ayala/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jesus, an <a href="https://www.linkedin.com/in/jesuss-ayala/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
